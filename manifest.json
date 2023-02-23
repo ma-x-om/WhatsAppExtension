@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "version": "0.0.1",
+    "name": "WPP-Web-Link",
+    "description": "Abre uma aba com o número de telefone inserido",
+    "author": "Mateus Ramirez",
+    "permissions": ["tabs", "clipboardRead"],
+    "action": {
+   	 "default_title": "WPP WPP-Web-Link",
+   	 "default_popup": "index.html",
+   	 "default_icon": "icon.png"
+    }
+}
