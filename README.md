@@ -10,9 +10,9 @@ The extension's use is simple:
 
 ------------------------------------------
 
-If you don't know how to install a extension, do the following:
+If you don't know how to install an extension, do the following:
 
-1. Go in chrome://extensions/
+1. Go to chrome://extensions/
 2. Activate "Developer Mode"
 3. Choose "Load with no compacting"
 4. Select the folder with the codes
